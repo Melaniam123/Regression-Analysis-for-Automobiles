@@ -62,6 +62,16 @@ the response variable and hence, it is important to check for multicollinearity 
 using other regression techniques that can handle this problem, such as ridge regression or
 principal component regression (Bhandari, 2023).
 
+![image](https://github.com/Melaniam123/Regression-Analysis-for-Automobiles/assets/97692152/98d93976-c5fb-4d1d-a0fc-f1f0a6d4daf3)
+![image](https://github.com/Melaniam123/Regression-Analysis-for-Automobiles/assets/97692152/7b805052-6d9f-41d3-b143-cfd34c785f52)
+![image](https://github.com/Melaniam123/Regression-Analysis-for-Automobiles/assets/97692152/f379f36c-66c0-40d5-8dbf-d0a78d45436a)
+![image](https://github.com/Melaniam123/Regression-Analysis-for-Automobiles/assets/97692152/2ddadb5a-b3c4-40f3-beb2-f2ee04fcdae5)
+
+
+
+
+
+
 # Model Summary 
 1. R-squared: The R^square is 0.750 meaning that approximately 75% of the attribute MPG
 variability can be explained by the independent variables since the coefficient of
